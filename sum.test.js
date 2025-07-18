@@ -8,7 +8,7 @@ test('suma 1 + 2 para dar 3', () => {
 
 //Funcion resta mal hecha
 function resta(a, b) {
-    return a - b - 1;
+    return a - b;
 }
 
 test('resta 5 - 2 para dar 3', () => {
