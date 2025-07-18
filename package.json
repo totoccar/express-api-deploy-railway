@@ -1,0 +1,25 @@
+{
+  "name": "express-api-deploy-railway",
+  "version": "1.0.0",
+  "description": "API minimalista con Express, Docker y despliegue automático en Railway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totoccar/express-api-deploy-railway.git"
+  },
+  "keywords": [],
+  "author": "Antonio Carlos",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/totoccar/express-api-deploy-railway/issues"
+  },
+  "homepage": "https://github.com/totoccar/express-api-deploy-railway#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
