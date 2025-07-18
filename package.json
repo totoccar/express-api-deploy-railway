@@ -4,7 +4,7 @@
   "description": "API minimalista con Express, Docker y despliegue automático en Railway",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "repository": {
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/totoccar/express-api-deploy-railway#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
   }
 }
