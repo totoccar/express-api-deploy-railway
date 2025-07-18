@@ -2,7 +2,7 @@
 
 # DevOps Ping API
 
-Este proyecto es una API mínima construida con **Node.js** y **Express** que responde con un simple "pong" al acceder a la ruta `/ping`. Fue diseñada como ejercicio práctico para demostrar conocimientos básicos en herramientas clave del entorno DevOps: **Docker**, **GitHub Actions** y **Railway**.
+Este proyecto es una API mínima construida con **Node.js** y **Express** que responde con un simple "pong" al acceder a la ruta `/ping`. Fue diseñada como ejercicio práctico para demostrar conocimientos básicos en herramientas clave del entorno DevOps: **Docker**, **GitHub Actions** y **Render**.
 
 -----
 
@@ -11,7 +11,7 @@ Este proyecto es una API mínima construida con **Node.js** y **Express** que re
   * **Node.js y Express**: Para construir una API simple.
   * **Docker**: Para contenerizar la aplicación.
   * **GitHub Actions**: Para crear una *pipeline* de CI/CD.
-  * **Railway**: Para desplegar automáticamente la aplicación en la nube.
+  * **Render**: Para desplegar automáticamente la aplicación en la nube.
 
 -----
 
@@ -60,5 +60,5 @@ Sigue estos pasos para poner en marcha la API en tu máquina local:
 
 Creado por **Antonio Carlos** como ejercicio de aprendizaje y práctica en herramientas DevOps.
 
-  * LinkedIn: \[[tu-linkedin](https://www.linkedin.com/in/antoniocarlos2000/)]
-  * GitHub: [https://github.com/totoccar](https://github.com/totoccar)
+  * LinkedIn [antoniocarlos2000](https://www.linkedin.com/in/antoniocarlos2000/)
+  * GitHub: [totoccar](https://github.com/totoccar)
