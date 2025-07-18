@@ -60,5 +60,5 @@ Sigue estos pasos para poner en marcha la API en tu máquina local:
 
 Creado por **Antonio Carlos** como ejercicio de aprendizaje y práctica en herramientas DevOps.
 
-  * LinkedIn: \[[tu-linkedin](https://www.linkedin.com/in/antoniocarlos2000/)]
-  * GitHub: [https://github.com/totoccar](https://github.com/totoccar)
+  * LinkedIn [antoniocarlos2000](https://www.linkedin.com/in/antoniocarlos2000/)
+  * GitHub: [totoccar](https://github.com/totoccar)
